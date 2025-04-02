@@ -8,7 +8,6 @@ This project is a multimedia experience featuring:
 - 🎵 14 original tracks (MP3)
 - 🖼️ Unique cyberpunk album art for every song
 - 📜 Full lyric sheets in TXT format
-- 🎛️ JSON sound profiles for each track
 - 🧃 Bonus lore, character themes, and emotional firmware
 
 ---
