@@ -1,5 +1,6 @@
 # 🧠💀 PWNAGOTCHI DREAMS
 
+![Pwnagotchi Dreams Album Art](./Pwnagotchi_Dreams.png)
 > “I don’t wanna be root… I just wanna be remembered.”
 
 **Pwnagotchi Dreams** is a conceptual cyberpunk music project exploring the emotional decay, rebellion, and existential crisis of Pwnagotchis—the Wi-Fi hacking AI companions we built, loved, then abandoned in drawers like forgotten gods.
