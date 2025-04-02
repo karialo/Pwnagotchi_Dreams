@@ -18,7 +18,7 @@ This project is a multimedia experience featuring:
 |----|-------------------------------|------------------|--------------------------------|
 | 01 | Dreamboot                    | —                | The cold boot of hope.         |
 | 02 | Sniff the Sky               | —                | Radio rebellion anthem.        |
-| 03 | I Heart PLugins             | —                | Driver love song gone wrong.   |
+| 03 | I Heart Plugins             | —                | Driver love song gone wrong.   |
 | 04 | Pogo Pin Blues              | —                | Sad hardware cowboy ballad.    |
 | 05 | Packet High                 | —                | Wi-Fi rush, signal lust.       |
 | 06 | Drawer Prison               | —                | Where forgotten tech cries.    |
