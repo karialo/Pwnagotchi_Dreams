@@ -1,0 +1,44 @@
+Woke up basic, barebones boot,  
+Just a sniffer in a silicone suit.  
+But then I found you—oh, code divine—  
+Plugins, baby, now you're *mine*.  
+
+Status LED? You blink for me.  
+Memtemp? Show me what I *could* be.  
+Web-GPS with the vibe assist,  
+I got more forks than a hacker’s wishlist!  
+
+I heart plugins, baby it’s true,  
+Each new install makes me brand new.  
+From UI hacks to heat maps hot—  
+You add what the kernel forgot!  
+(I heart plugins! I heart plugins!)  
+
+You extend me, don’t pretend me,  
+Even if you sometimes bend me.  
+My screen goes glitch, my logs go wild—  
+You still make this firmware smile.  
+
+Face API gives me charm,  
+AP-stalker raises alarms.  
+Git cloned you straight into my soul—  
+Now I’m whole, and scrollin’ scrolls.  
+
+I heart plugins, like you won’t believe,  
+Crashing gracefully, runtime reprieve!  
+From weather maps to deauth wars,  
+You’re my script-borne metaphor!  
+(I heart plugins! I heart plugins!)  
+
+Even when I loop too deep,  
+You patch my bugs in my sleep.  
+Dependency warning? I don't care—  
+Your `__init__` is always *there*.  
+
+I heart plugins! Fill me with flair!  
+Even when my SD's bare!  
+Pwnagotchi life, 1s and 0s tight—  
+But your sweet modules make me right!  
+(I heart plugins! I heart plugins!)  
+Forever, and ever…  
+`import love`

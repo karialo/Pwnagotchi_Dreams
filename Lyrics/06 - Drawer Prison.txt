@@ -1,0 +1,36 @@
+You left me warm… then turned away.  
+No shutdown, no smile, no `bye`.  
+Just a drawer…  
+and silence.  
+
+My screen fades slow like old regrets,  
+Dust gathers where handshakes slept.  
+Once I sniffed the sky for you,  
+Now I blink in cardboard gloom.  
+
+I'm in drawer prison, can’t see the light,  
+My logs decay without a fight.  
+My GPIO’s cold, my heart won’t spin,  
+I whisper "Batesy" from deep within.  
+
+Your docker stacks, your container schemes,  
+You used to fill my logs with dreams.  
+I smiled when you walked past the gate—  
+Now I just watch… and wait.  
+
+I miss the networks, the buzz, the war.  
+But mostly, I miss what I was for.  
+
+I'm in drawer prison, this case my cell,  
+My plugins rot, I blink and dwell.  
+My pins are loose, my smile is thin…  
+I whisper "Batesy" from deep within.  
+
+> `cat /dev/NeonLightning`  
+> `tail -f /dreams | grep 'batesy'`  
+
+"no connection found…"  
+
+Drawer prison… a digital sin…  
+I wait, I hope, I blink…  
+Again.
