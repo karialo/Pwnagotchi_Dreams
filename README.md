@@ -46,12 +46,10 @@ Pwnagotchi_Dreams/
 │   ├── 01 – Dreamboot.txt
 │   ├── ...
 │   └── 14 – MrGeek.exe.txt
-├── Tracks/
-│   ├── 01 – Dreamboot.mp3
-│   ├── ...
-│   └── 14 – MrGeek.exe.mp3
-├── SoundProfiles/
-│   ├── 01 – Dreamboot.json
-│   └── ...
+│
+├── 01 – Dreamboot.mp3
+├── ...
+├── 14 – MrGeek.exe.mp3
+│
 ├── Pwnagotchi_Dreams.png
 └── README.md
